@@ -1,0 +1,27 @@
+{
+  "name": "cruise-ships",
+  "version": "1.0.0",
+  "description": "Cruise Ships Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "jest",
+    "url": "git+https://github.com/PhoebeLMaas/cruise-ships.git"
+  },
+  "keywords": [
+    "Cruise",
+    "Ship",
+    "Project"
+  ],
+  "author": "Phoebe L Maas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhoebeLMaas/cruise-ships/issues"
+  },
+  "homepage": "https://github.com/PhoebeLMaas/cruise-ships#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
