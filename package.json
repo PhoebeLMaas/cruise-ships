@@ -4,10 +4,10 @@
   "description": "Cruise Ships Project",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "test": "jest"
   },
   "repository": {
-    "type": "jest",
+    "type": "standard",
     "url": "git+https://github.com/PhoebeLMaas/cruise-ships.git"
   },
   "keywords": [
